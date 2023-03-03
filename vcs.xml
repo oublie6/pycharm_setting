@@ -6,6 +6,10 @@
           <option name="url" value="https://github.com/andyzys/jd_seckill.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/FederatedAI/FATE.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\31316\Documents\PycharmProject" />
